@@ -1,0 +1,17 @@
+{
+  "name": "zoom",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerDoor/zoom.git"
+  },
+  "description": "Zoom clone using WebRTC and Websockets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developerDoor/zoom/issues"
+  },
+  "homepage": "https://github.com/developerDoor/zoom#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
